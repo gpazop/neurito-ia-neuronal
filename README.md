@@ -1,4 +1,4 @@
-# Experimentos con Red Neuronal para Juego de Salto
+# Experimentos con Neurito
 
 ## Introducción
 
