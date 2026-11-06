@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Se realizaron cinco experimentos con una red neuronal `RedSalto` (arquitectura `3 → ocultas → 1`, ReLU enocultas, sigmoide en salida, BCELoss, descenso de gradiente full-batch) sobre el entorno `JuegoSalto`. El objetivo es evaluar cómo la arquitectura, el entrenamiento y la ventana de etiquetado afectan la capacidad de la red para clasificar ejemplos y, críticamente, para *dodger* obstáculos en tiempo real.
+Se realizaron cinco experimentos. El objetivo es evaluar cómo la arquitectura, el entrenamiento y la ventana de etiquetado afectan la capacidad de la red para clasificar ejemplos y, críticamente, para *dodger* obstáculos en tiempo real.
 
 **Semillas fijas** (independientes de la arquitectura):
 - `DATA_SEED=2026` — controla la generación de datos (velocidades, posiciones, etiquetas).
