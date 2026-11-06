@@ -172,4 +172,3 @@ La respuesta fundamentada con los experimentos es:
 - `salto_juego.py`: física, colisiones, obstáculos.
 - `salto_modelo.py`: arquitectura de la red, `etiqueta()`, `generar_datos()`.
 - `saltar.py`: bucle de juego, controles, bloques de entrenamiento.
-- Resultados completos en `neurito_resultados.json` (Temp directory).
